@@ -6,7 +6,7 @@
 
 ## This is [Android Application](http://tech.prizm.space/files/prizm.apk)
 
-## User friendly [Online Wallet](https://wallet.prizm.space/)
+## User friendly [Online Wallet](https://wallet-prizm.space/)
 
 ## [Windows and OS X client downloads](http://94.130.167.158/loyalty/center/)
 
